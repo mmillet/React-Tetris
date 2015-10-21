@@ -1,5 +1,7 @@
 # React版俄罗斯方块
 
+![React Tetris](http://120.25.62.254:90/tetris.gif "React Tetris")
+
 在这里可以玩: http://120.25.62.254:8080/
 
 ## Get start
